@@ -1,1 +1,1 @@
-# cardano_design_by--kristina_smrnv
+# cardano design by @kristina_smrnv
